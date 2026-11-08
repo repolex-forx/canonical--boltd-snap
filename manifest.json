@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "canonical",
+  "repo": "boltd-snap",
+  "versions": [
+    {
+      "commit": "733c91ba71e0e15f68340b27b6d5442a6f5b3d18",
+      "parsed_at": "2026-11-08T19:07:18.962757+00:00",
+      "tag": "desktop-26-latest",
+      "filetree": "filetree/733c91ba71e0e15f68340b27b6d5442a6f5b3d18.nq.gz",
+      "blobs": [
+        "blob/2fa89653c99a162e283c32618a5ea3ca207ebcd1.nq.gz",
+        "blob/2051c072ac41adc0af5ca2e4de138e337d407737.nq.gz",
+        "blob/94d7b0724f63e1c207a05e74b2be603de8b3bded.nq.gz",
+        "blob/0869d473d353d8cb153f614c004cb314cc27c5a9.nq.gz",
+        "blob/287097bed5b2ffbbc691b5c0a48f73a43b600a72.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
